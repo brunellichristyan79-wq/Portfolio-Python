@@ -41,6 +41,6 @@ Cada projeto tem sua própria pasta, com código comentado e um README explicand
 
 ## 📬 Contato
 
-- GitHub: [@christyanbrunelli9-oss](https://github.com/christyanbrunelli9-oss)
+- GitHub: [@brunellichristyan79-wq](https://github.com/christyanbrunelli9-oss)
 - LinkedIn: https://www.linkedin.com/in/christyan-brunelli-005bb3362/_
 - E-mail: _brunellichristyan79@gmail.com_
