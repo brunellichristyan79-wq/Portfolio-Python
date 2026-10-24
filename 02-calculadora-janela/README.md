@@ -2,8 +2,7 @@
 
 Evolução da calculadora de terminal: agora com uma janela de verdade, caixas de texto e um botão para cada operação.
 
-<!-- Dica: tire um print da janela, salve nesta pasta como "screenshot.png"
-     e troque esta linha por:  ![Calculadora](screenshot.png)  -->
+![Calculadora](screenshot.png.png)
 
 ## ✨ Funcionalidades
 
