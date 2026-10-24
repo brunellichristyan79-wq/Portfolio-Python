@@ -13,6 +13,7 @@ Cada projeto tem sua própria pasta, com código comentado e um README explicand
 | 1 | [Calculadora de Terminal](./01-calculadora-terminal) | Calculadora com as 4 operações básicas, que roda no terminal e permite fazer várias contas seguidas | variáveis, `input()`, `float()`, `if/elif/else`, `while`, tratamento de divisão por zero |
 | 2 | [Calculadora com Janela](./02-calculadora-janela) | Mesma ideia, mas com interface gráfica (janela, caixas de texto e botões) | Tkinter, funções com parâmetro, `lambda`, f-strings |
 | 3 | [Calculadora em Executável](./03-calculadora-executavel) | Como transformar o script Python em um `.exe` que roda sem precisar do Python instalado | PyInstaller, empacotamento, distribuição |
+| 4 | [Jogo de Adivinhação](./04-jogo-adivinhacao) | Jogo em que o jogador tenta descobrir um número sorteado, com limite de tentativas e dicas | `random`, `while` com condição, `break`, `else` no `while` |
 
 ---
 
@@ -31,7 +32,7 @@ Cada projeto tem sua própria pasta, com código comentado e um README explicand
 - [x] Calculadora de terminal
 - [x] Calculadora com interface gráfica
 - [x] Geração de executável (`.exe`)
-- [ ] Jogo de adivinhação de número
+- [x] Jogo de adivinhação de número
 - [ ] Lista de tarefas (To-Do List)
 - [ ] Agenda de contatos com arquivo JSON
 - [ ] Projeto com banco de dados (SQLite)
